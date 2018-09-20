@@ -1,0 +1,6 @@
+{
+    // "terminal.integrated.shell.windows": "/usr/bin/bash",
+    // "terminal.integrated.shell.windows": "wsl",
+    "terminal.integrated.shell.windows": "C:/Program Files/PowerShell/6/pwsh.exe",
+    "powershell.powerShellExePath": "C:/Program Files/PowerShell/6/pwsh.exe"
+}
